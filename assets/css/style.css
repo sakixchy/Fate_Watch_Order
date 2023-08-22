@@ -37,6 +37,9 @@ header a {
     display: flex;
 }
 
+ul {
+    list-style-type: none;
+}
 
 
 
