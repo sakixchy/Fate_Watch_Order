@@ -26,5 +26,23 @@ header {
 header a {
     text-decoration: none;
     color: rgb(255, 255, 255);
-    
+
+}
+
+ #logo {
+    font-size: 135%;
+    font-weight: bold;
+    box-shadow: 0 5px 5px rgb(166, 152, 255);
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    header nav {
+        display: none;
+        
+        
+    }
+   
 }
