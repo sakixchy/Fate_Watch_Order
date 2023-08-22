@@ -81,10 +81,23 @@ ul li {
     transform: rotate(45deg) translate(-6px, -8px);
 }
 
+.mobile-menu {
+     display: none;
+     position: absolute;
+     top: 50px;
+     left: 0;
+     height: calc(100vh - 50px);
+     width: 100%;
+}
+
 @media only screen and (max-width: 768px) {
     header nav {
         display: none;
         
-        
     }
+
+    #hamburger-icon {
+        display: block;
+    }
+
 }
