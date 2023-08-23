@@ -86,6 +86,22 @@ main {
 }
 
 
+.hero-title {
+    text-align: center;
+    color: rgb(166, 152, 255);
+    font-size: 145%;
+}
+
+#hero-text-border {
+    background-color: rgba(74, 94, 227, 0.15);
+}
+
+.hero-text {
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
 
 
 
