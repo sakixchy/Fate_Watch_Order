@@ -9,7 +9,7 @@
 
 body {
     background-color: rgb(255, 255, 255);
-    color: rgb(94, 74, 227);
+    color: rgb(0,0,0);
     font-family: 'DM Sans' sans-serif;
     display: flex;
     flex-direction: column;
@@ -24,6 +24,9 @@ header {
     z-index: 99;
     box-shadow: 0 4px 4px rgb(113, 137, 255);
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -54,7 +57,18 @@ nav {
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 4px 4px rgb(113, 137, 255);
+    display: none;
+    top: 100%;
 }
 
+#nav-toggle:checked~nav{
+    display: block;
+}
 
+#nav-toggle {
+    display: none;
+}
 
+.nav-toggle-label {
+    font-size: 150%;
+}
