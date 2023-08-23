@@ -35,6 +35,26 @@ h1 {
     font-family: 'Handjet', cursive;
 }
 
+#menu {
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+nav {
+    position: absolute;
+    background-color: rgb(113, 137, 255);
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 4px 4px rgb(113, 137, 255);
+}
 
 
 
