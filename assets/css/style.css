@@ -79,3 +79,34 @@ main {
     margin-top: 50px;
 
 }
+
+
+
+
+.footer {
+    background-color: rgb(94, 74, 227);
+    color: rgb(255, 255, 255);
+    height: 5%;
+    width: 100%;
+
+}
+
+#social-links {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 150%;
+    padding-top: 5px;  
+
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+}
+
+
+
+
+
