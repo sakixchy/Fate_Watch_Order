@@ -100,9 +100,20 @@ main {
     line-height: 1.5;
     margin-bottom: 20px;
     text-align: center;
+    font-family: 'DM sans', sans-serif;
     
 }
 
+.movies-title {
+     color: rgb(166, 152, 255);
+     font-size: 150%;
+     text-align: center;
+
+}
+
+#movies-box img {
+    max-width: 100%;
+}
 
 
 .footer {
