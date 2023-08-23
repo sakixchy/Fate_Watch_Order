@@ -21,6 +21,7 @@ header {
     justify-content: space-between;
     height: 50px;
     padding: 0 20px;
+    box-shadow:  0 3px 3px rgb(166, 152, 255);
 
 }
 
@@ -31,11 +32,14 @@ header a {
 }
 
  #logo {
-    font-size: 135%;
     font-weight: bold;
-    align-items: center;
+    font-size: 12px;
     display: flex;
+    align-items: center;
+    
+
 }
+
 
 ul {
     list-style-type: none;
@@ -99,5 +103,9 @@ ul li {
     #hamburger-icon {
         display: block;
     }
+
+
+
+
 
 }
