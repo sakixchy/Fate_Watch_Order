@@ -72,3 +72,10 @@ nav {
 .nav-toggle-label {
     font-size: 150%;
 }
+
+
+main {
+    flex: 1 0 auto;
+    margin-top: 50px;
+
+}
