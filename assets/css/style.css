@@ -46,14 +46,19 @@ ul {
     height: 100%;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 ul li {
-    padding: 5px;
-    margin-left: 10px;
+  
+    margin-left: 15px;
     margin-top: 15px;
 }
 
+ul li:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
 
 #hamburger-icon {
     margin: auto 0;
