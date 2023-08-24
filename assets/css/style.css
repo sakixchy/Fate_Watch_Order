@@ -156,7 +156,7 @@ main {
 }
 
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
     nav {
       display: block;
       position: relative;
@@ -190,6 +190,7 @@ main {
 .larger-screen-container {
     display: flex;
     justify-content: center;
+    margin: 1rem 3rem 0 3rem;
   
 
 
@@ -201,9 +202,19 @@ main {
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 1.5rem;
+  
  
  }
 
 
+}
 
+@media screen and (max-width: 768px) {
+    #movies-box-larger img {
+        display: none;
+    }
+    .movies-text {
+        display: none;
+    }
+   
 }
