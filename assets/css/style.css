@@ -177,10 +177,33 @@ main {
   .nav-toggle-label {
     display: none;
   }
+
+  .hero-image img {
+    width: 100%;
+  }
+
+  #movies-box {
+    display: none;
+   
 }
 
+.larger-screen-container {
+    display: flex;
+    justify-content: center;
+  
+
+
+ }
+
+ #movies-box-larger img {
+  width: 10rem;
+  height: 15rem;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 1.5rem;
+ 
+ }
 
 
 
-
-
+}
