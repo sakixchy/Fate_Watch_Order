@@ -156,6 +156,31 @@ main {
 }
 
 
+@media screen and (min-width: 600px) {
+    nav {
+      display: block;
+      position: relative;
+      box-shadow: none;
+      width: fit-content;
+      padding-right: 1rem;
+      background-color: rgb(94, 74, 227);
+
+  }
+
+  #menu {
+    display:flex;
+  }
+  #menu > li {
+    padding-left: 1rem;
+  }
+
+  .nav-toggle-label {
+    display: none;
+  }
+}
+
+
+
 
 
 
