@@ -215,6 +215,16 @@ main {
    
  }
 
+ .footer {
+    height: 6em;
+
+ }
+
+ #social-links {
+    margin-top: 1.25rem;
+    font-size: 250%;
+ }
+
 
 }
 
