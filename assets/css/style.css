@@ -212,11 +212,42 @@ main {
  
  }
 
- .movies-text {
+ .movies-text-1 {
     font-family: 'DM Sans', sans-serif;
     font-size: smaller;
-   line-height: 1.2rem;
-   
+    line-height: 1.2rem;
+    margin-right: 1rem;
+    font-weight: 400;
+    text-align: left;
+
+ }
+
+ .movies-text-2 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: smaller;
+    line-height: 1.2rem;
+    margin-right: 1rem;
+    font-weight: 400;
+    text-align: left;
+
+ }
+ .movies-text-3 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: smaller;
+    line-height: 1.2rem;
+    margin-right: 1rem;
+    font-weight: 400;
+    text-align: left;
+
+ }
+ .movies-text-4 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: smaller;
+    line-height: 1.2rem;
+    margin-right: 1rem;
+    font-weight: 400;
+    text-align: left;
+
  }
 
  .footer {
@@ -240,4 +271,8 @@ main {
         display: none;
     }
    
+   .movies-text-1, .movies-text-2, .movies-text-3, .movies-text-4{
+    display: none;
+   }
+   .
 }
