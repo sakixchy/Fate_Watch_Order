@@ -260,6 +260,9 @@ main {
     font-size: 250%;
  }
 
+ main {
+    margin-bottom: 5rem;
+ }
 
 }
 
@@ -274,5 +277,6 @@ main {
    .movies-text-1, .movies-text-2, .movies-text-3, .movies-text-4{
     display: none;
    }
-   .
+
+   
 }
