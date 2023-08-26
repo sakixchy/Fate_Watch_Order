@@ -99,6 +99,8 @@ main {
 .hero-text {
     line-height: 1.5;
     margin-bottom: 20px;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
     text-align: center;
     font-family: 'DM sans', sans-serif;
     
