@@ -184,6 +184,10 @@ main {
     width: 100%;
   }
 
+  .hero-title {
+    font-size: 300%;
+  }
+
   #movies-box {
     display: none;
    
