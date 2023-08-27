@@ -164,6 +164,7 @@ main {
     font-weight: 200%;
     text-align: center;
     text-decoration: underline;
+    margin-bottom: 1rem;
 }
 
 .contents-wrapper {
