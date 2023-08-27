@@ -246,6 +246,7 @@ main {
     padding-inline: 2rem;
     background-color: rgba(255, 255, 255, 0.5);
     box-shadow: 0 6px 6px rgb(0,0,0);
+    
 }
 
 #form-name {
@@ -253,15 +254,42 @@ main {
     height: 1.5rem;
     border-radius: 10px;
     border: 2px solid rgb(0, 0, 0);
+    
 }
+
+.label-form-name {
+    font-family: 'DM sans',sans-serif;
+    font-size: 150%;
+    display: block;
+    margin-top: 3rem;
+}
+.label-form-email {
+    font-family: 'DM sans',sans-serif;
+    font-size: 150%;
+    display: block;
+    margin-top: 1rem;
+   
+}
+
+
 
 #form-email {
     width: 20rem;
     height: 1.5rem;
     border-radius: 10px;
     border: 2px solid rgb(0, 0, 0);
+   
 }
 
+.form-button {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: 1.5rem;
+    font-family: 'DM sans', sans-serif;
+    padding: 2px 2px 2px 2px;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
 
 @media screen and (min-width: 768px) {
     nav {
