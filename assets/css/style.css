@@ -184,6 +184,10 @@ main {
     font-family: 'DM Sans', sans-serif;
 }
 
+.watch-guide-bg {
+    background-color: rgba(94, 74, 227, 0.3);
+}
+
 
 @media screen and (min-width: 768px) {
     nav {
