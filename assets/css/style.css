@@ -169,11 +169,15 @@ main {
 .contents-wrapper {
     background-color: rgba(166, 152, 255, .3);
     border: 4px solid rgb(113, 137, 255);
-    padding: 2rem 2rem 2rem 2rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin-inline: 1rem;
     display: inline-block;
-
+    
 }
 
+.content-list {
+    list-style-type: none;
+}
 
 
 @media screen and (min-width: 768px) {
