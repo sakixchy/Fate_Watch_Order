@@ -176,7 +176,12 @@ main {
 }
 
 .content-list {
+    text-align: center;
+    font-size: small;
+    scroll-padding-block-start: 1rem;
+    line-height: 2rem;
     list-style-type: none;
+    font-family: 'DM Sans', sans-serif;
 }
 
 
