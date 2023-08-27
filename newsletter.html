@@ -52,20 +52,23 @@
              </header>
             
              <main>
-                <div id="forum-wrapper">
-                    <div id="forum-container">
-                        <div id="forum">
-                            <label for="name" class="form-name">First Name:</label>
-                         <input type="text" name="name" id="name">
-                            <label for="name" class="name" id="name">Last Name</label>
-                         <input type="text" name="name" id="name">
-                         <label type="email" name="email" id="email">Email:</label>
-                         <input type="email" name="email" id="email>
-                         <input type="submit" value="SUBSCRIBE"/>
-                        </div>
-
+               <div id="forum-wrapper">
+                <div id="forum-container">
+                    <div id="forum-title">
+                        <form action="https://formdump.codeinstitute.net/" method="post">
+                            <fieldset>
+                            <label for="name" name="name">Your Name:</label> <br>
+                            <input type="text" id="name" name="name" required>
+                          <br>  <label for="email" name="email">Email Address</label> <br>
+                            <input type="email" id="email" name="email" required>
+                          <br>  <input type="checkbox" id="checkbox" name="checkbox" required> 
+                            <label for="checkbox" name="checkbox">I agree to receive updates on latest contents being added to website</label>
+                          <br>  <button value="SUBSCRIBE">SUBSCRIBE</button>
+                        </fieldset>
+                        </form>
                     </div>
                 </div>
+               </div>
              </main>
 
 
