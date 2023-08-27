@@ -160,8 +160,8 @@ main {
 
 .contents-title {
     font-family: 'DM Sans', sans-serif;
-    color: rgb(166, 152, 255);
-    font-weight: 500;
+    color: rgb(255,255,255);
+    font-weight: 200%;
     text-align: center;
     text-decoration: underline;
 }
@@ -182,12 +182,21 @@ main {
     line-height: 2rem;
     list-style-type: none;
     font-family: 'DM Sans', sans-serif;
+   
 }
 
 .watch-guide-bg {
     background-color: rgba(94, 74, 227, 0.3);
 }
 
+#soundtrack {
+    font-family: 'DM Sans', sans-serif;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 150%;
+}
 
 @media screen and (min-width: 768px) {
     nav {
