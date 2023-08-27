@@ -230,12 +230,38 @@ main {
     
 }
 
+#forum-wrapper {
+    text-align: center;
+}
+
 #forum-container {
     display: flex;
     justify-content: center;
     background-color: rgba(255, 255, 255, .4);
     margin-top: 10rem;
 }
+
+#form-box {
+    height: 20rem;
+    padding-inline: 2rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 6px 6px rgb(0,0,0);
+}
+
+#form-name {
+    width: 20rem;
+    height: 1.5rem;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+#form-email {
+    width: 20rem;
+    height: 1.5rem;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
 
 @media screen and (min-width: 768px) {
     nav {
