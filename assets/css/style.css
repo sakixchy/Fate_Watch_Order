@@ -402,7 +402,7 @@ main {
 }
 
 @media screen and (max-width: 768px) {
-    #movies-box-larger img {
+    .movies-box-larger img {
         display: none;
     }
     .movies-text {
