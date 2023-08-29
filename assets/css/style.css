@@ -114,7 +114,7 @@ main {
 }
 
 
-#movies-box img {
+.movies-box img {
     max-width: 100%;
     border: 2px solid rgb(74, 94, 227);
 }
@@ -322,7 +322,7 @@ main {
     font-size: 300%;
   }
 
-  #movies-box {
+  .movies-box {
     display: none;
    
 }
