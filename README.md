@@ -1,2 +1,2 @@
 # Fate Watch Order
-! [Website Mockup] (Multi Device Mockup.png)
+! [Website Mockup] (assets/css/images/Multi-Device-Mockup.png)
