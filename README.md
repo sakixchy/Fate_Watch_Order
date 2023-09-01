@@ -15,4 +15,21 @@ This Website is made possible by using HTML & CSS as a first Milestone Project f
 
 ___ 
 
+# User Experience (UX)
+## User stories 
+### As a first-time user
+- I want to be enticed at first glance by this website.
+- I want to to accomploish my intend of familiarizing myself about the subject.
+- I wish to receive updates on forthcoming releases of the anime series.
+- I want to be able to navigate around the website with ease and intuitively.
+
+
+### As a returning user
+- I want to be notified about upcoming releases of the anime series.
+- I want to keep monitoring my proggression on how far i have watched the series.
+- I want to listen to to the official soundtracks of the series.
+
+
+
+
 
