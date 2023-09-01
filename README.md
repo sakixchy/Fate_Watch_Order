@@ -29,7 +29,7 @@ ___
 - I want to keep monitoring my proggression on how far i have watched the series.
 - I want to listen to to the official soundtracks of the series.
 
-
+### All users from mobile devices to desktop can experience this website.
 
 
 
