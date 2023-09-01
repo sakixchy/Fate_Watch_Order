@@ -31,5 +31,22 @@ ___
 
 ### All users from mobile devices to desktop can experience this website.
 
+___
+
+# Structure 
+## Home
+- An attractive image of main characters from the series.
+- A consistent theme all around the page.
+- Small descriptive of the series in the form of text that delivers an overview.
+- Recommendations to movies. 
+#### User Goal:
+>  - Be delighted by the beautiful aesthetic of the page.
+>  - Getting appropriate information based on their curiousity.
+#### Website Goal:
+>  - Presenting with relevant information and keeping them engaged.
+>  - Encouraging viewers to explore other pages.
+
+
+
 
 
