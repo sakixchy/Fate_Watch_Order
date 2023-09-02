@@ -51,23 +51,27 @@ ___
 - Main content of the page for viewers to watch.
 - External links leads to source of contents for viewers.
 - Embedded videos as soundtracks for enjoyment.
-### User Goal:
+#### User Goal:
 > - Be able to visit different sites for streaming shows.
 > - Can see the progression in the series.
 > - Listen to music whilst on the page.
-### Website Goal:
+#### Website Goal:
 > - Giving visitors a curated watch order to watch the series.
 > - Giving visitors a good time during their browsing session.
 
 ## Newsletter
 - Subscribers receive updates via email depending on content being uploaded.
-### User Goal:
+#### User Goal:
 > - Be able to enter name and email to get signed up.
-### Website Goal:
+#### Website Goal:
 > - Pushing emails to subscribers and feeding updates to clients.
 
 ___ 
 
+# Wireframes
+
+### Home
+![home wireframes](assets/css/images/readme/wireframe/Home - Mobile.png)
 
 
 
