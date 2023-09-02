@@ -75,6 +75,10 @@ ___
 ![home wireframe tablet](assets/css/images/readme/wireframe/Home-Tablet.png)
 ![home wireframe desktop](assets/css/images/readme/wireframe/Home-Desktop.png)
 
+### Watch Guide
+![home wireframe mobile](assets/css/images/readme/wireframe/WatchGuide-Mobile.png)
+![home wireframe tablet](assets/css/images/readme/wireframe/WatchGuide-Tablet.png)
+![home wireframe desktop](assets/css/images/readme/wireframe/WatchGuide-Desktop.png)
 
 
 
