@@ -80,6 +80,11 @@ ___
 ![home wireframe tablet](assets/css/images/readme/wireframe/WatchGuide-Tablet.png)
 ![home wireframe desktop](assets/css/images/readme/wireframe/WatchGuide-Desktop.png)
 
+### Newsletter
+![home wireframe mobile](assets/css/images/readme/wireframe/Newsletter-Mobile.png)
+![home wireframe tablet](assets/css/images/readme/wireframe/Newsletter-Tablet.png)
+![home wireframe desktop](assets/css/images/readme/wireframe/Newsletter-Desktop.png)
+
 
 
 
