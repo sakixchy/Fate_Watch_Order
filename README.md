@@ -53,11 +53,20 @@ ___
 - Embedded videos as soundtracks for enjoyment.
 ### User Goal:
 > - Be able to visit different sites for streaming shows.
-> - Can see the proggression in the series.
+> - Can see the progression in the series.
 > - Listen to music whilst on the page.
 ### Website Goal:
-> - Giving visitors a curated watch order to the series.
-> - Giving visitors a good time during their borwsing.
+> - Giving visitors a curated watch order to watch the series.
+> - Giving visitors a good time during their browsing session.
+
+## Newsletter
+- Subscribers receive updates via email depending on content being uploaded.
+### User Goal:
+> - Be able to enter name and email to get signed up.
+### Website Goal:
+> - Pushing emails to subscribers and feeding updates to clients.
+
+___ 
 
 
 
