@@ -47,6 +47,20 @@ ___
 >  - Encouraging viewers to explore other pages.
 
 
+## Watch Guide
+- Main content of the page for viewers to watch.
+- External links leads to source of contents for viewers.
+- Embedded videos as soundtracks for enjoyment.
+### User Goal:
+> - Be able to visit different sites for streaming shows.
+> - Can see the proggression in the series.
+> - Listen to music whilst on the page.
+### Website Goal:
+> - Giving visitors a curated watch order to the series.
+> - Giving visitors a good time during their borwsing.
+
+
+
 
 
 
