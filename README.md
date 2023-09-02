@@ -71,7 +71,9 @@ ___
 # Wireframes
 
 ### Home
-![home wireframes](assets/css/images/readme/wireframe/Home - Mobile.png)
+![home wireframe mobile](assets/css/images/readme/wireframe/Home-Mobile.png)
+![home wireframe tablet](assets/css/images/readme/wireframe/Home-Tablet.png)
+![home wireframe desktop](assets/css/images/readme/wireframe/Home-Desktop.png)
 
 
 
