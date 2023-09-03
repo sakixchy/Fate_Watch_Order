@@ -90,13 +90,20 @@ ___
 # Design 
 ## Color Scheme
 ![color scheme](assets/css/images/readme/wireframe/color-scheme.png) <br>
-The choosing of particular color palletes is with the intention of giving the character of feminine and softer tone for positive emotional effect. Generally, Anime fans are youthful and soft hearted, so to utilize this trait and paiting the website with these colors is a no brainer.
+The choosing of particular color palletes is with the intention of giving the character of feminine and softer tone for positive emotional effect. Generally, Anime fans are youthful and soft hearted, so to utilize this trait and painting the website with these colors is a no brainer.
 ###### Color Names:
 - Cornflower blue
 - Tropical indigo
 - Majorelle Blue
 
 # Typhography
+#### Logo
+[handjet](https://fonts.google.com/?query=handjet) font was used for the logo to give it a retro look and give it that distinctive aesthetic in the realm of typical amime styling.
+#### Body
+[DM Sans](https://fonts.google.com/specimen/DM+Sans?query=DM+Sans) font was used for other segments of the page. It's because the font has an unique outline and extraordinarily thin. This compliments with other aspects of the website, therefore delivering playful experience.
+
+
+
 
 
 
