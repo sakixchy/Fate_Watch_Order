@@ -85,6 +85,11 @@ ___
 ![home wireframe tablet](assets/css/images/readme/wireframe/Newsletter-Tablet.png)
 ![home wireframe desktop](assets/css/images/readme/wireframe/Newsletter-Desktop.png)
 
+___
+
+# Design 
+## Color Scheme
+![color scheme](assets/css/images/readme/wireframe/color-scheme.png)
 
 
 
