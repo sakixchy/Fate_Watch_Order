@@ -89,14 +89,14 @@ ___
 
 # Design 
 ## Color Scheme
-![color scheme](assets/css/images/readme/wireframe/color-scheme.png)
+![color scheme](assets/css/images/readme/wireframe/color-scheme.png) <br>
 The choosing of particular color palletes is with the intention of giving the character of feminine and softer tone for positive emotional effect. Generally, Anime fans are youthful and soft hearted, so to utilize this trait and paiting the website with these colors is a no brainer.
 ###### Color Names:
 - Cornflower blue
 - Tropical indigo
 - Majorelle Blue
 
-## Typhography
+# Typhography
 
 
 
