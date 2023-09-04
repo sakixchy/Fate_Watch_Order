@@ -96,11 +96,24 @@ The choosing of particular color palletes is with the intention of giving the ch
 - Tropical indigo
 - Majorelle Blue
 
-# Typhography
+# Typography
 #### Logo
 [handjet](https://fonts.google.com/?query=handjet) font was used for the logo to give it a retro look and give it that distinctive aesthetic in the realm of typical amime styling.
 #### Body
 [DM Sans](https://fonts.google.com/specimen/DM+Sans?query=DM+Sans) font was used for other segments of the page. It's because the font has an unique outline and extraordinarily thin. This compliments with other aspects of the website, therefore delivering playful experience.
+
+# Images
+All images were sourced from various websites pertaining to the topic and picked gracefully.
+
+___
+
+# Features
+## Navigation bar
+![navbar desktop](assets/css/images/readme/Navbar.png)
+![navbar mobile](assets/css/images/readme/Navbar-mobile.png)
+This navigation bar sits at the top of the website in a fixed position, making it convinient for users to jump through differemt pages. The links to different pages are in one row of line adjacent to eachother.It's a fully responsive nav-bar, which means no matter what the screen size is, the users won't find it a hassle to navigate.
+The nav bar depending on screen size can take different form to suit smaller devices.
+
 
 
 
