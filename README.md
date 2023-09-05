@@ -135,11 +135,18 @@ These are some soundtracks from the series. They are embedded from youtube into 
 ## Newsletter Page
 ![form input feature](assets/css/images/readme/FormFeature.png)<br>
 The page contains a form with name and email input along with a checkbox for agreement.<br>
-The user can fill in the form with their name and email and click subscribe, when an  update or changes being made to the website, the user will be inform with an email.<br>
-(currently, upon subscribing to the newsletter form, the data isn't being stored or processed on the backend as this requires further knowledge of SQL and python. So this goes just in Code Institute formdump)
+The user can fill in the form with their name and email and click subscribe, when an  update or changes being made to the website, the user will be informed with an email.<br>
+(currently, upon subscribing to the newsletter form, the data isn't being stored or processed on the backend as this requires further knowledge of SQL and Python. So this just goes in Code Institute formdump).
 
 # Responsive layout
-The whole website is built 
+The whole website is built bearing other form factors in mind. During initial develiopment of the website, the mobile first approach has been taken. According to which devices is viewed upon, the layout will have a different visual. Flexbox and Display query has been utilized to make the website fluid and resposnive. The three main key devices that this website is based on are:<br>
+- Mobile
+- Tablet 
+- Desktop
+___
+
+
+
 
 
 
