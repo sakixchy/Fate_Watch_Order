@@ -192,6 +192,10 @@ ___
 - I have checked the 'Subscribe' button works and gives the confirmation for form.
 - I have checked that all social media links open and in a new tab.
 
+# Bugs
+![bug found](assets/css/images/testing/BugFound.png)<br>
+I found this during my testing and was able to solve this issue by taking the embed source directly from youtube page amd putting the code into html
+
 
 
 
