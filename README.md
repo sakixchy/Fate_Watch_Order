@@ -119,6 +119,10 @@ The nav bar depending on screen size can take different form to better suit smal
 The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has <br>
 an image of the prominent figures of the series, therefore meking the users fimiliarizing with the whole ethos.
 
+# Must Watch Section
+![cards feature](assets/css/images/readme/CardsFeauture.png)<br>
+The recommended movies are very interesting for new comers, hence its given a beautiful outlook as cards to highlight their presence and catch the useres attention.
+
 
 
 
