@@ -191,18 +191,32 @@ ___
 - I have checked the form input works as it should and if a field is missing that it will notify the user. Also, when typing email that it meets the format.<br>
 - I have checked the 'Subscribe' button works and gives the confirmation for form.
 - I have checked that all social media links open and in a new tab.
+___
 
 # Bugs
 ![bug found](assets/css/images/testing/BugFound.png)<br>
 I found this during my testing and was able to solve this issue by taking the embed source directly from youtube page amd putting the code into html
 
+___
+# Automated Testing
+1. [HTML Validation for Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsakixchy.github.io%2FFate_Watch_Order%2Findex.html)<br>
+   [HTML Validation for Watch Guide Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsakixchy.github.io%2FFate_Watch_Order%2Fwatch-guide.html)<br>
+   [HTML Validation for Newsletter Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsakixchy.github.io%2FFate_Watch_Order%2Fnewsletter.html)<br>
+   The Test on all pages were successful and found no errors.<br>
+2. [CSS Validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsakixchy.github.io%2FFate_Watch_Order%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)<br>
+     The Test on all pages were successful and found no errors.<br>
 
-
-
-
-
-
-
+3. Lighthouse<br>
+   Mobile:<br>
+   ![home mobile lth](assets/css/images/testing/Home-mobile-LH.png)<br>
+   ![watch guide mobile lth](assets/css/images/testing/WatchGuide-mobile-LH.png)<br>
+   ![hnewsletter mobile lth](assets/css/images/testing/Newsletter-mobile-LH.png)<br>
+   Desktop:<br>
+   ![home desktop lth](assets/css/images/testing/Home-desktop-LH.png)<br>
+   ![watch guide desktop lth](assets/css/images/testing/WatchGuide-desktop-LH.png)<br>
+   ![nesletter desktop lth](assets/css/images/testing/Newsletter-desktop-LH.png)<br>
+   
+   
 
 
 
