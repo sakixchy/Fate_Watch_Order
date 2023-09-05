@@ -166,21 +166,20 @@ ___
 # Testing
 ## User Story Testing
 | Expectations                                                               | Realisation
-|----------------------------------------------------------------------------|--------------------------------------|
-| **As a first time user:**                                                  | 
-| I want to be able to seek out my purpose for<br>                           |1. The website has a header and description<br>
-| visiting the site.                                                         |to let visitors know the topic and its offering.
-| I want to be able to navigate through different<br>                        |<br> At the top there is a navbar withh links to
-| pages intuitively.                                                         |each pages, also a logo that takes back to home.
-| I want to find the content section <br>                                    |<br> The main contents with links are found in 
-| and start watching the series.                                             | middle of the page with title of each series.
-| I can play youtube videos.<br>                                             |<br>The user can play soundtracks by clicking on
-| I can subscribe to newsletter to keep up-to-date.<br>                      |the play button or press play. <br>The user can
-| **As a returning user:**                                                   |fill in the form and click subscribe button to 
-| I can follow up with any new changes made to website<br>                   |start receiving mails.
+|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
+| **As a first time user:**
+| I want to be able to navigate through different.                           |At the top there is a navbar withh links to each pages, also a logo that takes back to home.
+| pages intuitively.                                                         |
+| I want to find the content section and start watching the series.          |The main contents with links are found in middle of the page with title of each series.
+| I can play youtube videos.                                                 |The user can play soundtracks by clicking on the play button or press play.
+| I can subscribe to newsletter to keep up-to-date.                          |The user can
+| **As a returning user:**                                                   |fill in the form and click subscribe button to start receiving mails.
+| I can follow up with any new changes made to website<br>                   |
+|                                                                            |
 | I can see the progression of which links i visited last <br>               |
 | to watch the series.                                                       |
 | I can listen to the soundtracks.                                           |
+|                                                                            | 
 | **All users:**                                                             |
 | I can view the website across all devices <br>                             |
 |
