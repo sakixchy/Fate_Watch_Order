@@ -141,7 +141,7 @@ ___
 
 # Footer
 ![footer feature](assets/css/images/readme/Footerfeature.png)<br>
-The footer has social media links as well as copyright information. The user can follow social meida and become closer with the service. General users can be made aware of any rights associated with copyright infringement.
+The footer has social media links as well as copyright information. The user can follow social mediaa and become closer with the service. General users can be made aware of any rights associated with copyright infringement.
 
 # Responsive layout
 The whole website is built bearing other form factors in mind. During initial develiopment of the website, the mobile first approach has been taken. According to which devices is viewed upon, the layout will have a different visual. Flexbox and Display query has been utilized to make the website fluid and resposnive. The three main key devices that this website is based on are:<br>
@@ -165,20 +165,25 @@ ___
 
 # Testing
 ## User Story Testing
-| Expectations                                                                     | Realisation
-|----------------------------------------------------------------------------------|------------------------------------------|
-| **As a first time user:**
+| Expectations                                                               | Realisation
+|----------------------------------------------------------------------------|--------------------------------------|
+| **As a first time user:**                                                  | 
+| I want to be able to seek out my purpose for<br>                           |1. The website has a header and description<br>
+| visiting the site.                                                         |to let visitors know the topic and it soffering.
+| I want to be able to navigate through different<br>                        |<br> The 
+| pages intuitively.                                                         |
+| I want to find the content section <br>                                    |
+| and start watching the series.                                             |
+| I can play youtube videos.<br>                                             |
+| I can subscribe to newsletter to keep up-to-date.<br>                      |
+| **As a returning user:**                                                   |
+| I can follow up with any new changes made to website<br>                   |
+| I can see the progression of which links i visited last <br>               |
+| to watch the series.                                                       |
+| I can listen to the soundtracks.                                           |
+| **All users**                                                              |
+| I can view the website across all devices <br>                             |
 |
-|
-|
-|
-|
-|
-|
-|
-|
-
-
 
 
 
