@@ -92,9 +92,9 @@ ___
 ![color scheme](assets/css/images/readme/wireframe/color-scheme.png) <br>
 The choosing of particular color palletes is with the intention of giving the character of feminine and softer tone for positive emotional effect. Generally, Anime fans are youthful and soft hearted, so to utilize this trait and painting the website with these colors is a no brainer.
 ###### Color Names:
-- Cornflower blue
-- Tropical indigo
-- Majorelle Blue
+- Cornflower blue 7189ff
+- Tropical indigo A698FF
+- Majorelle Blue 5e4ae3
 
 # Typography
 #### Logo
@@ -111,12 +111,16 @@ ___
 ## Navigation bar
 ![navbar desktop](assets/css/images/readme/Navbar.png)
 ![navbar mobile](assets/css/images/readme/Navbar-mobile.png) <br>
-This navigation bar sits at the top of the website in a fixed position, making it convinient for users to jump through differemt pages. The links to different pages are in one row of line adjacent to eachother. <br>It's a fully responsive nav-bar, which means no matter what the screen size is, the users won't find it a hassle to navigate.
+This navigation bar sits at the top of the website in a sticky position, making it convinient for users to jump through differemt pages. The links to different pages are in one row of line adjacent to eachother. <br>It's a fully responsive nav-bar, which means no matter what the screen size is, the users won't find it a hassle to navigate.
 The nav bar depending on screen size can take different form to better suit smaller devices.
 
 # Hero image
 ![hero image](assets/css/images/project-image-hero.webp) <br>
-The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has a image of the promiment figures of the series, therefore meaking theusers fimiliarizing wit the whole ethos.
+The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has <br>
+an image of the prominent figures of the series, therefore meking the users fimiliarizing with the whole ethos.
+
+
+
 
 
 
