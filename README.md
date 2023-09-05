@@ -167,22 +167,20 @@ ___
 ## User Story Testing
 | Expectations                                                               | Realisation
 |----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------
-| **As a first time user:**
-| I want to be able to navigate through different.                           |At the top there is a navbar withh links to each pages, also a logo that takes back to home.
-| pages intuitively.                                                         |
+| **As a first time user:**                                                  |
+| I want to be able to navigate through different pages intuitiv             |At the top there is a navbar withh links to each pages, also a logo that takes back to home.                                                        |
 | I want to find the content section and start watching the series.          |The main contents with links are found in middle of the page with title of each series.
 | I can play youtube videos.                                                 |The user can play soundtracks by clicking on the play button or press play.
-| I can subscribe to newsletter to keep up-to-date.                          |The user can
-| **As a returning user:**                                                   |fill in the form and click subscribe button to start receiving mails.
-| I can follow up with any new changes made to website<br>                   |
-|                                                                            |
-| I can see the progression of which links i visited last <br>               |
+| I can subscribe to newsletter to keep up-to-date.                          |The user can fill in the form and click subscribe button to start receiving mails.
+| **As a returning user:**                                                   |
+| I can follow up with any new changes made to website.                      |The user will be notified when subscribed and can check the folowing content being chnaged or updated based on the text on email.                                                                          |
+| I can see the progression of which links i visited last <br>               |The user will see a different color of visited links therefore know what has been already watched.
 | to watch the series.                                                       |
-| I can listen to the soundtracks.                                           |
+| I can listen to the soundtracks.                                           |The user can play a song and it will start playing only then and stop when its ended.
 |                                                                            | 
 | **All users:**                                                             |
-| I can view the website across all devices <br>                             |
-|
+| I can view the website across all devices <br>                             | All devices work with this website and is repsonsive, and all functions work preoperly, no features has been left out.
+
 
 
 
