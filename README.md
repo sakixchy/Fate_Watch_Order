@@ -114,14 +114,19 @@ ___
 This navigation bar sits at the top of the website in a sticky position, making it convinient for users to jump through differemt pages. The links to different pages are in one row of line adjacent to eachother. <br>It's a fully responsive nav-bar, which means no matter what the screen size is, the users won't find it a hassle to navigate.
 The nav bar depending on screen size can take different form to better suit smaller devices.
 
-# Hero image
+## Hero image
 ![hero image](assets/css/images/project-image-hero.webp) <br>
 The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has <br>
 an image of the prominent figures of the series, therefore meking the users fimiliarizing with the whole ethos.
 
-# Must Watch Section
+## Must Watch Section
 ![cards feature](assets/css/images/readme/CardsFeauture.png)<br>
-The recommended movies are very interesting for new comers, hence its given a beautiful outlook as cards to highlight their presence and catch the useres attention.
+The recommended movies are very interesting for new comers, hence its given a beautiful outlook as cards to highlight their presence and catch the users attention.
+
+## Contents
+![contents links](assets/css/images/readme/ContentsFeature.png)<br>
+In the Watch Guide page, a content section is the main source of the website, whereby the user get the appropiate links to watch the series in a proper order.
+
 
 
 
