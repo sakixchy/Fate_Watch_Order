@@ -145,6 +145,18 @@ The whole website is built bearing other form factors in mind. During initial de
 - Desktop
 ___
 
+# Technologies
+- HTML is used to structure the website.
+- CSS is used to design and style the website.
+- [Gitpod](https://www.gitpod.io/) IDE to work on my website.
+- [GitHub](https://www.github.com/) to save code and deploy live website.
+- [FontAwesome](https://fontawesome.com/) for icons.
+- [Google Fonts](https://fonts.google.com/) for typography.
+- [Coolors](https://coolors.co/) is used for choosing color scheme.
+- [Balsamiq](https://balsamiq.com/wireframes/?gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC113X24sWLN9_P9LZ-X5AGhpq_VV7aagvL3dAZRIpwDHZNDMB_FVJhQBoCDM4QAvD_BwE) is used to create wireframes.
+
+___
+
 
 
 
