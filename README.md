@@ -181,6 +181,16 @@ ___
 | **All users:**                                                             |
 | I can view the website across all devices <br>                             | All devices work with this website and is repsonsive, and all functions work preoperly, no features has been left out.
 
+___
+# Feature Testing
+#### All testing has been done in Chrome, Safari and Firefox.
+- I have checked all navigation links working and taking me to appropiate pages.<br>
+- I have checked upon clocking on logo it takes me to home page.
+- I have made sure all links in contents section work and take me to an external wesbite in addition open in a new tab.<br>
+- I have checked all youtube videos are playable and not auto playing.
+- I have checked the form input works as it should and if a field is missing that it will notify the user. Also, when typing email that it meets the format.<br>
+- I have checked the 'Subscribe' button works and gives the confirmation for form.
+- I have checked that all social media links open and in a new tab.
 
 
 
