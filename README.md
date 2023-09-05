@@ -128,6 +128,11 @@ The recommended movies are very interesting for new comers, hence its given a be
 In the Watch Guide page, a content section is the main source of the website, whereby the user get the appropiate links to watch the series in a proper order.
 
 ## Soundtrack
+![video embedding feature](assets/css/images/readme/SoundTrackFeature.png)<br>
+These are some soundtracks from the series. They are embedded from youtube into the page. The videos can be played witha press of a play and gives the user a nice tune in  experience whilst browsing.
+
+## Newsletter
+! 
 
 
 
