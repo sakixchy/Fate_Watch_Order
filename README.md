@@ -113,26 +113,36 @@ ___
 ![navbar mobile](assets/css/images/readme/Navbar-mobile.png) <br>
 This navigation bar sits at the top of the website in a sticky position, making it convinient for users to jump through differemt pages. The links to different pages are in one row of line adjacent to eachother. <br>It's a fully responsive nav-bar, which means no matter what the screen size is, the users won't find it a hassle to navigate.
 The nav bar depending on screen size can take different form to better suit smaller devices.
-
+# Home Page
 ## Hero image
 ![hero image](assets/css/images/project-image-hero.webp) <br>
 The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has <br>
 an image of the prominent figures of the series, therefore meking the users fimiliarizing with the whole ethos.
 
-## Must Watch Section
+## Must Watch Movies
 ![cards feature](assets/css/images/readme/CardsFeauture.png)<br>
 The recommended movies are very interesting for new comers, hence its given a beautiful outlook as cards to highlight their presence and catch the users attention.
 
+# Watch Guide Page
 ## Contents
 ![contents links](assets/css/images/readme/ContentsFeature.png)<br>
 In the Watch Guide page, a content section is the main source of the website, whereby the user get the appropiate links to watch the series in a proper order.
 
-## Soundtrack
+## SoundTrack
 ![video embedding feature](assets/css/images/readme/SoundTrackFeature.png)<br>
-These are some soundtracks from the series. They are embedded from youtube into the page. The videos can be played witha press of a play and gives the user a nice tune in  experience whilst browsing.
+These are some soundtracks from the series. They are embedded from youtube into the page. The videos can be played with a press of a play and gives the user a nice tune in  experience whilst browsing.
 
-## Newsletter
-! 
+## Newsletter Page
+![form input feature](assets/css/images/readme/FormFeature.png)<br>
+The page contains a form with name and email input along with a checkbox for agreement.<br>
+The user can fill in the form with their name and email and click subscribe, when an  update or changes being made to the website, the user will be inform with an email.<br>
+(currently, upon subscribing to the newsletter form, the data isn't being stored or processed on the backend as this requires further knowledge of SQL and python. So this goes just in Code Institute formdump)
+
+# Responsive layout
+The whole website is built 
+
+
+
 
 
 
