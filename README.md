@@ -137,12 +137,18 @@ These are some soundtracks from the series. They are embedded from youtube into 
 The page contains a form with name and email input along with a checkbox for agreement.<br>
 The user can fill in the form with their name and email and click subscribe, when an  update or changes being made to the website, the user will be informed with an email.<br>
 (currently, upon subscribing to the newsletter form, the data isn't being stored or processed on the backend as this requires further knowledge of SQL and Python. So this just goes in Code Institute formdump).
+___
+
+# Footer
+![footer feature](assets/css/images/readme/Footerfeature.png)<br>
+The footer has social media links as well as copyright information. The user can follow social meida and become closer with the service. General users can be made aware of any rights associated with copyright infringement.
 
 # Responsive layout
 The whole website is built bearing other form factors in mind. During initial develiopment of the website, the mobile first approach has been taken. According to which devices is viewed upon, the layout will have a different visual. Flexbox and Display query has been utilized to make the website fluid and resposnive. The three main key devices that this website is based on are:<br>
 - Mobile
 - Tablet 
 - Desktop
+
 ___
 
 # Technologies
@@ -156,6 +162,21 @@ ___
 - [Balsamiq](https://balsamiq.com/wireframes/?gad=1&gclid=CjwKCAjwo9unBhBTEiwAipC113X24sWLN9_P9LZ-X5AGhpq_VV7aagvL3dAZRIpwDHZNDMB_FVJhQBoCDM4QAvD_BwE) is used to create wireframes.
 
 ___
+
+# Testing
+## User Story Testing
+| Expectations                                                                     | Realisation
+|----------------------------------------------------------------------------------|------------------------------------------|
+| **As a first time user:**
+|
+|
+|
+|
+|
+|
+|
+|
+|
 
 
 
