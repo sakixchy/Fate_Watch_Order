@@ -1,5 +1,5 @@
 # Fate Watch Order
-![Website Mockup](assets/css/images/readme/Multi-Device-Mockup.png)
+![Website Mockup](assets/images/readme/multidevicemockup.png)
 ## Website Goal
 This website is created for Anime enthusiasts	and potential interested people, who wishes to know more about the anime series. They can visit here to figure out, how to watch this series without going through the headache of multiple searches on other places and feeling confused in terms of the watch order and where to stream them. It’s all in one package as far as being educated with this show concerns.
 
@@ -71,25 +71,25 @@ ___
 # Wireframes
 
 ### Home
-![home wireframe mobile](assets/css/images/readme/wireframe/Home-Mobile.png)
-![home wireframe tablet](assets/css/images/readme/wireframe/Home-Tablet.png)
-![home wireframe desktop](assets/css/images/readme/wireframe/Home-Desktop.png)
+![home wireframe mobile](assets/images/readme/wireframe/homemobile.png)
+![home wireframe tablet](assets/images/readme/wireframe/hometablet.png)
+![home wireframe desktop](assets/images/readme/wireframe/homedesktop.png)
 
 ### Watch Guide
-![home wireframe mobile](assets/css/images/readme/wireframe/WatchGuide-Mobile.png)
-![home wireframe tablet](assets/css/images/readme/wireframe/WatchGuide-Tablet.png)
-![home wireframe desktop](assets/css/images/readme/wireframe/WatchGuide-Desktop.png)
+![home wireframe mobile](assets/images/readme/wireframe/watchguidemobile.png)
+![home wireframe tablet](assets/images/readme/wireframe/watchguidetablet.png)
+![home wireframe desktop](assets/images/readme/wireframe/watchguidedesktop.png)
 
 ### Newsletter
-![home wireframe mobile](assets/css/images/readme/wireframe/Newsletter-Mobile.png)
-![home wireframe tablet](assets/css/images/readme/wireframe/Newsletter-Tablet.png)
-![home wireframe desktop](assets/css/images/readme/wireframe/Newsletter-Desktop.png)
+![home wireframe mobile](assets/images/readme/wireframe/newslettermobile.png)
+![home wireframe tablet](assets/images/readme/wireframe/newslettertablet.png)
+![home wireframe desktop](assets/images/readme/wireframe/newsletterdesktop.png)
 
 ___
 
 # Design 
 ## Color Scheme
-![color scheme](assets/css/images/readme/wireframe/color-scheme.png) <br>
+![color scheme](assets/images/readme/wireframe/color-scheme.png) <br>
 The choosing of particular color palletes is with the intention of giving the character of feminine and softer tone for positive emotional effect. Generally, Anime fans are youthful and soft hearted, so to utilize this trait and painting the website with these colors is a no brainer.
 ###### Color Names:
 - Cornflower blue 7189ff
@@ -109,38 +109,38 @@ ___
 
 # Features
 ## Navigation bar
-![navbar desktop](assets/css/images/readme/Navbar.png)
-![navbar mobile](assets/css/images/readme/Navbar-mobile.png) <br>
+![navbar desktop](assets/images/readme/navbar.png)
+![navbar mobile](assets/images/readme/navbarmobile.png) <br>
 This navigation bar sits at the top of the website in a sticky position, making it convinient for users to jump through differemt pages. The links to different pages are in one row of line adjacent to eachother. <br>It's a fully responsive nav-bar, which means no matter what the screen size is, the users won't find it a hassle to navigate.
 The nav bar depending on screen size can take different form to better suit smaller devices.
 # Home Page
 ## Hero image
-![hero image](assets/css/images/project-image-hero.webp) <br>
+![hero image](assets/images/project-image-hero.webp) <br>
 The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has <br>
 an image of the prominent figures of the series, therefore meking the users fimiliarizing with the whole ethos.
 
 ## Must Watch Movies
-![cards feature](assets/css/images/readme/CardsFeauture.png)<br>
+![cards feature](assets/images/readme/cardsfeauture.png)<br>
 The recommended movies are very interesting for new comers, hence its given a beautiful outlook as cards to highlight their presence and catch the users attention.
 
 # Watch Guide Page
 ## Contents
-![contents links](assets/css/images/readme/ContentsFeature.png)<br>
+![contents links](assets/images/readme/contentsfeature.png)<br>
 In the Watch Guide page, a content section is the main source of the website, whereby the user get the appropiate links to watch the series in a proper order.
 
 ## SoundTrack
-![video embedding feature](assets/css/images/readme/SoundTrackFeature.png)<br>
+![video embedding feature](assets/images/readme/soundtrackfeature.png)<br>
 These are some soundtracks from the series. They are embedded from youtube into the page. The videos can be played with a press of a play and gives the user a nice tune in  experience whilst browsing.
 
 ## Newsletter Page
-![form input feature](assets/css/images/readme/FormFeature.png)<br>
+![form input feature](assets/images/readme/formfeature.png)<br>
 The page contains a form with name and email input along with a checkbox for agreement.<br>
 The user can fill in the form with their name and email and click subscribe, when an  update or changes being made to the website, the user will be informed with an email.<br>
 (currently, upon subscribing to the newsletter form, the data isn't being stored or processed on the backend as this requires further knowledge of SQL and Python. So this just goes in Code Institute formdump).
 ___
 
 # Footer
-![footer feature](assets/css/images/readme/Footerfeature.png)<br>
+![footer feature](assets/images/readme/footerfeature.png)<br>
 The footer has social media links as well as copyright information. The user can follow social mediaa and become closer with the service. General users can be made aware of any rights associated with copyright infringement.
 
 # Responsive layout
@@ -194,7 +194,7 @@ ___
 ___
 
 # Bugs
-![bug found](assets/css/images/testing/BugFound.png)<br>
+![bug found](assets/images/testing/bugfound.png)<br>
 I found this during my testing and was able to solve this issue by taking the embed source directly from youtube page amd putting the code into html
 
 ___
@@ -208,13 +208,13 @@ ___
 
 3. Lighthouse<br>
    Mobile:<br>
-   ![home mobile lth](assets/css/images/testing/Home-mobile-LH.png)<br>
-   ![watch guide mobile lth](assets/css/images/testing/WatchGuide-mobile-LH.png)<br>
-   ![hnewsletter mobile lth](assets/css/images/testing/Newsletter-mobile-LH.png)<br>
+   ![home mobile lth](assets/images/testing/homemobilelH.png)<br>
+   ![watch guide mobile lth](assets/images/testing/watchguidemobilelh.png)<br>
+   ![hnewsletter mobile lth](assets/images/testing/newslettermobilelh.png)<br>
    Desktop:<br>
-   ![home desktop lth](assets/css/images/testing/Home-desktop-LH.png)<br>
-   ![watch guide desktop lth](assets/css/images/testing/WatchGuide-desktop-LH.png)<br>
-   ![nesletter desktop lth](assets/css/images/testing/Newsletter-desktop-LH.png)<br>
+   ![home desktop lth](assets/images/testing/homedesktoplh.png)<br>
+   ![watch guide desktop lth](assets/images/testing/watchguidedesktoplh.png)<br>
+   ![nesletter desktop lth](assets/images/testing/newsletterdesktoplh.png)<br>
    
    
 
