@@ -1,6 +1,7 @@
-
+/**Google Fonts import**/
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&family=Handjet:wght@300&display=swap');
 
+/**General style target**/
 * {
     padding: 0;
     margin: 0;
@@ -61,6 +62,7 @@ nav {
     top: 100%;
 }
 
+/**Nav style for mobile**/
 #nav-toggle:checked~nav{
     display: block;
 }
@@ -292,6 +294,7 @@ main {
 
 
 @media screen and (min-width: 768px) {
+    /**Navbar styles for larger screen size**/
     nav {
       display: block;
       position: relative;
@@ -400,7 +403,9 @@ main {
 
 }
 
+
 @media screen and (max-width: 768px) {
+    /**Movies and Form section only for mobile**/
     .movies-box-larger img {
         display: none;
     }
