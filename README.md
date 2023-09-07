@@ -230,8 +230,30 @@ Then refresh the page and a green outline at the top of the page will appear inc
 the deployed website link.
 9. Click on the link and the live website is on display.<br>
 <hr>
- Here is the link to live website: [Fate: Watch Order](https://sakixchy.github.io/Fate_Watch_Order/).
-   
+ The link to live website is [here](https://sakixchy.github.io/Fate_Watch_Order/).
+
+ ## Carry out this project locally
+
+**To Clone the repository**
+1. On the Home of the `Fate_Watch_Order` in Github.
+2. CLick on the green `Code` button.
+3. Copy the **HTTPS** link under Clone sub heading.
+4. Open any code editor.
+5. Type in `git clone` in the terminal and paste the url from earlier.
+6. Press `Enter` to create a local version of this repository.
+
+**Download this the repository**
+1. On the Home of the `Fate_Watch_Order` in Github.
+2. CLick on the green `Code` button.
+3. Select `Download ZIP` at the bottom.
+4. Save the folder and extract it to desired location.
+5. Open any Code Editor.
+6. Find the repository from where it was saved on the system.
+7. Open it and the respository will be available to work on offline.
+___
+
+
+
    
 
 
