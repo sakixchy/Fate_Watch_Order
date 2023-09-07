@@ -224,7 +224,7 @@ main {
 
 
 .newsletter-bg {
-    background-image: url('images/project-image-newsletter.webp');
+    background-image: url('../images/project-image-newsletter.webp');
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
