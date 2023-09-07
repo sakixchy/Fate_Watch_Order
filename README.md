@@ -89,7 +89,7 @@ ___
 
 # Design 
 ## Color Scheme
-![color scheme](assets/images/readme/wireframe/color-scheme.png) <br>
+![color scheme](assets/images/readme/wireframe/colorscheme.png) <br>
 The choosing of particular color palletes is with the intention of giving the character of feminine and softer tone for positive emotional effect. Generally, Anime fans are youthful and soft hearted, so to utilize this trait and painting the website with these colors is a no brainer.
 ###### Color Names:
 - Cornflower blue 7189ff
@@ -116,8 +116,7 @@ The nav bar depending on screen size can take different form to better suit smal
 # Home Page
 ## Hero image
 ![hero image](assets/images/project-image-hero.webp) <br>
-The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has <br>
-an image of the prominent figures of the series, therefore meking the users fimiliarizing with the whole ethos.
+The "Hero image" as it says, it's an image at the center of attention the moment a user visits the website. It has an image of the prominent figures of the series, therefore making the users fimiliarizing with the whole ethos.
 
 ## Must Watch Movies
 ![cards feature](assets/images/readme/cardsfeauture.png)<br>
@@ -141,7 +140,7 @@ ___
 
 # Footer
 ![footer feature](assets/images/readme/footerfeature.png)<br>
-The footer has social media links as well as copyright information. The user can follow social mediaa and become closer with the service. General users can be made aware of any rights associated with copyright infringement.
+The footer has social media links as well as copyright information. The user can follow social media and become closer with the service. General users can be made aware of any rights associated with copyright infringement.
 
 # Responsive layout
 The whole website is built bearing other form factors in mind. During initial develiopment of the website, the mobile first approach has been taken. According to which devices is viewed upon, the layout will have a different visual. Flexbox and Display query has been utilized to make the website fluid and resposnive. The three main key devices that this website is based on are:<br>
@@ -208,13 +207,30 @@ ___
 
 3. Lighthouse<br>
    Mobile:<br>
-   ![home mobile lth](assets/images/testing/homemobilelH.png)<br>
+   ![home mobile lth](assets/images/testing/homemobilelh.png)<br>
    ![watch guide mobile lth](assets/images/testing/watchguidemobilelh.png)<br>
    ![hnewsletter mobile lth](assets/images/testing/newslettermobilelh.png)<br>
    Desktop:<br>
    ![home desktop lth](assets/images/testing/homedesktoplh.png)<br>
    ![watch guide desktop lth](assets/images/testing/watchguidedesktoplh.png)<br>
    ![nesletter desktop lth](assets/images/testing/newsletterdesktoplh.png)<br>
+___
+# Deployment
+This project was deployed to Github pages.<br>
+These are the steps taken to deploy this project: <br>
+1. Sign-in to Github account.
+2. Click on `Fate_Watch_Order` from the list of repositories.
+3. Go to `Settings` on far-right from the header section.
+4. Click on `Pages` on the left side of the menu under **Code and automation** heading.
+5. Click on `Deploy from a branch` under **Source**.
+6. Select `main` from the dropwdown and the folder should remain `root` next to it.
+7. Click `Save` 
+8. A message will pop up telling the website is ready to be deployed.<br>
+Then refresh the page and a green outline at the top of the page will appear including<br>
+the deployed website link.
+9. Click on the link and the live website is on display.<br>
+<hr>
+ Here is the link to live website: [Fate: Watch Order](https://sakixchy.github.io/Fate_Watch_Order/).
    
    
 
