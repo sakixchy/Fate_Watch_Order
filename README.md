@@ -230,7 +230,7 @@ Then refresh the page and a green outline at the top of the page will appear inc
 the deployed website link.
 9. Click on the link and the live website is on display.<br>
 <hr>
- The link to live website is [here](https://sakixchy.github.io/Fate_Watch_Order/).
+ The link to live website is [here](https://sakixchy.github.io/Fate_Watch_Order/)
 
  ## Carry out this project locally
 
@@ -249,8 +249,24 @@ the deployed website link.
 4. Save the folder and extract it to desired location.
 5. Open any Code Editor.
 6. Find the repository from where it was saved on the system.
-7. Open it and the respository will be available to work on offline.
+7. Open it and the respository will be available to work offline.
 ___
+# Credits
+## Media
+### Images
+- favicon.jpg [favicon here](https://tenor.com/en-GB/view/rin-tohsaka-fate-facial-expressions-gif-11473513) <br>
+- project-image-hero.webp [hero image here](https://hotarukiryu.files.wordpress.com/2021/04/wp4091867-sakura-mat-wallpapers.png) <br>
+**Movie Images**<br>
+1. project-image-movie-1.webp [1st movie image here](https://typemoon.fandom.com/wiki/Fate/stay_night_-_Heaven%27s_Feel_-_I._Presage_Flower?file=Heaven%27s_Feel_I._Presage_Flower_anime_key_art.png)<br>
+2. project-image-movie-2.webp [2nd movie image here](https://static.wikia.nocookie.net/typemoon/images/3/37/Heaven%27s_Feel_II._Lost_Butterfly_anime_key_art_2.jpg/revision/latest?cb=20180728112806)<b>
+3. project-image-movie-3.webp [3rd movie image here](https://static.wikia.nocookie.net/typemoon/images/7/7d/Spring_Song_key_visual.jpg/revision/latest?cb=20210215194931)<br>
+4. project-image-movie-4.webp [4th movie image here](https://typemoon.fandom.com/wiki/Fate/Grand_Order:_First_Order )<br>
+- project-image-newsletter.webp [bg image here](https://hotarukiryu.files.wordpress.com/2021/04/wp5743536.jpg)<br>
+
+### Videos
+- [Soundtrack 1 by Aimer Official YouTube](https://www.youtube.com/watch?v=hvVN2i6o4A4&list=PLcLQY2CjIvqT3-Pd-LKXsvkNQ-cy-4n1c&index=2)<br>
+- [Soundtrack 2 by Melodic Star on YouTube](https://www.youtube.com/watch?v=p-Jly1jmkwE&list=PLdR7m7PFLzQ7aDSHdVcDd11x3ggZTquiC)
+- [Soundtrack 3 by Em-Ost II on YouTube](https://www.youtube.com/watch?v=0oB2bH0PZjg)
 
 
 
