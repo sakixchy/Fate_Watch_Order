@@ -229,7 +229,6 @@ These are the steps taken to deploy this project: <br>
 Then refresh the page and a green outline at the top of the page will appear including<br>
 the deployed website link.
 9. Click on the link and the live website is on display.<br>
-<hr>
  The link to live website is [here](https://sakixchy.github.io/Fate_Watch_Order/)
 
  ## Carry out this project locally
