@@ -277,7 +277,7 @@ ___
 - Box shadow effect on images [W3 Schools](https://www.w3schools.com/css/tryit.asp?filename=trycss_ex_images_card)<br>
 
 # Acknowledgements
-This was my first ever milestone project and it couldn't have been done without the support <br>from my admirable mentor Ronan Mcclelland. ALso, a huge shoutout to my peers from Slack, who helped me throughout the journey of this project and especially true of Charlie Stone, she really gave me that desire to make it as good as i could.
+This was my first ever milestone project and it couldn't have been done without the support <br>from my admirable mentor Ronan Mcclelland. Also, a huge shoutout to my peers from Slack, who helped me throughout the journey of this project and especially true of Charlie Stone, she really gave me that desire to make it as good as i could.
 
 
 
