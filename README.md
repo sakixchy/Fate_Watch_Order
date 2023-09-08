@@ -255,6 +255,7 @@ ___
 ### Images
 - favicon.jpg [favicon here](https://tenor.com/en-GB/view/rin-tohsaka-fate-facial-expressions-gif-11473513) <br>
 - project-image-hero.webp [hero image here](https://hotarukiryu.files.wordpress.com/2021/04/wp4091867-sakura-mat-wallpapers.png) <br>
+
 **Movie Images**<br>
 1. project-image-movie-1.webp [1st movie image here](https://typemoon.fandom.com/wiki/Fate/stay_night_-_Heaven%27s_Feel_-_I._Presage_Flower?file=Heaven%27s_Feel_I._Presage_Flower_anime_key_art.png)<br>
 2. project-image-movie-2.webp [2nd movie image here](https://static.wikia.nocookie.net/typemoon/images/3/37/Heaven%27s_Feel_II._Lost_Butterfly_anime_key_art_2.jpg/revision/latest?cb=20180728112806)<b>
@@ -263,9 +264,20 @@ ___
 - project-image-newsletter.webp [bg image here](https://hotarukiryu.files.wordpress.com/2021/04/wp5743536.jpg)<br>
 
 ### Videos
-- [Soundtrack 1 by Aimer Official YouTube](https://www.youtube.com/watch?v=hvVN2i6o4A4&list=PLcLQY2CjIvqT3-Pd-LKXsvkNQ-cy-4n1c&index=2)<br>
-- [Soundtrack 2 by Melodic Star on YouTube](https://www.youtube.com/watch?v=p-Jly1jmkwE&list=PLdR7m7PFLzQ7aDSHdVcDd11x3ggZTquiC)
-- [Soundtrack 3 by Em-Ost II on YouTube](https://www.youtube.com/watch?v=0oB2bH0PZjg)
+- Soundtrack 1 by[Aimer Official YouTube](https://www.youtube.com/watch?v=hvVN2i6o4A4&list=PLcLQY2CjIvqT3-Pd-LKXsvkNQ-cy-4n1c&index=2)<br>
+- Soundtrack 2 by[Melodic Star on YouTube](https://www.youtube.com/watch?v=p-Jly1jmkwE&list=PLdR7m7PFLzQ7aDSHdVcDd11x3ggZTquiC)
+- Soundtrack 3 by[Em-Ost II on YouTube](https://www.youtube.com/watch?v=0oB2bH0PZjg)
+
+### Texts
+- The description of the home page is sourced from[here](https://typemoon.fandom.com/wiki/Fate_series)<br>
+
+## Code
+- Implemention of flexbox for movie section from here[Kevin Powell on YouTube](https://www.youtube.com/watch?v=u044iM9xsWU)<br>
+- YouTube videos embedding from here[W3 Schools](https://www.w3schools.com/tags/tag_iframe.ASP)<br>
+- Box shadow effect on images [W3 Schools](https://www.w3schools.com/css/tryit.asp?filename=trycss_ex_images_card)<br>
+
+# Acknowledgements
+This was my first ever milestone project and it couldn't have been done without the support <br>from my admirable mentor Ronan Mcclelland. ALso, a huge shoutout to my peers from Slack, who helped me throughout the journey of this project and especially true of Charlie Stone, she really gave me that desire to make it as good as i could.
 
 
 
